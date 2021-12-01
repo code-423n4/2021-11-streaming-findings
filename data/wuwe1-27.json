@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "wuwe1",
+  "address": "0xA8022F2b43e4823B8286601329504001f8A78652",
+  "risk": "G",
+  "title": "Unused argument in updateStream",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/27"
+}
