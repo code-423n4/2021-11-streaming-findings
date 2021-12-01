@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "The _burn function doesn't actually burn any tokens ",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/25"
+}
