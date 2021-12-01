@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "cyberboy",
+  "address": "0xdc3442769DB7D34e6468Ded0b9B2a1baa4630C99",
+  "risk": "1",
+  "title": "Division before multiple can lead to precision errors",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/28"
+}
