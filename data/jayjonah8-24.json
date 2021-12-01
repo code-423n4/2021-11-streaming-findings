@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "_mint() function doesn't mint any erc20 tokens ",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/24"
+}
