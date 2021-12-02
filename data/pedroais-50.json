@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "G",
+  "title": "Flashloan is given for 1 token but checks balances for both reward and deposit token",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/50"
+}
