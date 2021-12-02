@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "egjlmn1",
+  "address": "0x2700753985E7a922a1F9B24CFaAd9E6D0C4CE4DD",
+  "risk": "3",
+  "title": "LockeERC20 is vulnerable to frontrun attack",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/55"
+}
