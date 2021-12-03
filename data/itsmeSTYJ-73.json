@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "itsmeSTYJ",
+  "address": "0xBCa294543b46fF11CFAFbCF67434BEa23c21404b",
+  "risk": "2",
+  "title": "Stream.sol: possible tx.origin attack vector via recoverTokens()",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/73"
+}
