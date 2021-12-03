@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "itsmeSTYJ",
+  "address": "0xBCa294543b46fF11CFAFbCF67434BEa23c21404b",
+  "risk": "2",
+  "title": "Governed.sol: setPendingGov() should use the emergency_governed modifier.",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/72"
+}
