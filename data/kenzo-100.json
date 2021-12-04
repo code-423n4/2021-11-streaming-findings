@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "G",
+  "title": "Unnecessary call to lastApplicableTime() in claimReward()",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/100"
+}
