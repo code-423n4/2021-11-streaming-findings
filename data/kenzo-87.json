@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "kenzo",
+  "address": "0x611DaBF15f0077c64fDB5067376Ad593191e65F3",
+  "risk": "3",
+  "title": "Can't rescue reward tokens if rewards have been claimed",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/87"
+}
