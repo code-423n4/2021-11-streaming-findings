@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "Jujic",
+  "address": "0x6E1DA38F9d9D87ce228234a570D992D4DB294fA1",
+  "risk": "G",
+  "title": "Upgrade pragma to at least 0.8.4",
+  "issueId": 103,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/103"
+}
