@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "What if depositToken == rewardToken",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/105"
+}
