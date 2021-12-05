@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "3",
+  "title": "ts.tokens sometimes calculated incorrectly",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/123"
+}
