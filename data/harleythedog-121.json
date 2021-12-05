@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "harleythedog",
+  "address": "0xeFBFe9c6a66d871175d2B0ab35bc00255Aa36298",
+  "risk": "2",
+  "title": "recoverTokens doesn't work when isSale is true",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/121"
+}
