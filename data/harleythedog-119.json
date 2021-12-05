@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "harleythedog",
+  "address": "0xeFBFe9c6a66d871175d2B0ab35bc00255Aa36298",
+  "risk": "G",
+  "title": "claimReward unnessary logic",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/119"
+}
