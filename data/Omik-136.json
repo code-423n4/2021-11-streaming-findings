@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "Omik",
+  "address": "0x30fC9D86149c9241FDd5450748F8CB6734E1fdeF",
+  "risk": "2",
+  "title": "Missing address(0) check can, lead to user transfering token to the burn address, and doesnt reduce the total supply",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/136"
+}
