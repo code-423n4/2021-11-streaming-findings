@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "1",
+  "title": "inconsistency between `ts.amount` and `ts.virtualBalance` stop users withdrawing full amount after startTime.",
+  "issueId": 146,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/146"
+}
