@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "toastedsteaksandwich",
+  "address": "0xD8f6877aec57C3d70F458C54a1382dDc90522E7D",
+  "risk": "1",
+  "title": "No minimum size for flashloan leads to small feeless flashloans ",
+  "issueId": 198,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/198"
+}
