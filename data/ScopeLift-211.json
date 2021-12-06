@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "ScopeLift",
+  "address": "scopelift.eth",
+  "risk": "3",
+  "title": "Locke.sol:Stream - `recoverTokens` can bork `depositToken` balance",
+  "issueId": 211,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/211"
+}
