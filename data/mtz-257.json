@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "mtz",
+  "address": "0x602411A87ff854A9565e72A88a53c8b17dA3509d",
+  "risk": "G",
+  "title": "merkleAccess is unnecessary",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/257"
+}
