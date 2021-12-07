@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "3",
+  "title": "DOS while dealing with erc20 when value(i.e amount*decimals)  is high but less than type(uint112).max",
+  "issueId": 228,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/228"
+}
