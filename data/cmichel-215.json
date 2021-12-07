@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Tokens can be stolen when `depositToken == rewardToken`",
+  "issueId": 215,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/215"
+}
