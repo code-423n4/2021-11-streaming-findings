@@ -1,0 +1,9 @@
+{
+  "contest": "Streaming Protocol contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "G",
+  "title": "Gas: Batch transfer in `claimFees`",
+  "issueId": 219,
+  "issueUrl": "https://github.com/code-423n4/2021-11-streaming-findings/issues/219"
+}
